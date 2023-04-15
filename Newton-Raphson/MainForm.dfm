@@ -1,6 +1,6 @@
 object Form1: TForm1
-  Left = 5
-  Top = 185
+  Left = 173
+  Top = 132
   Width = 750
   Height = 476
   Caption = #1052#1077#1090#1086#1076#1099' '#1086#1087#1090#1080#1084#1080#1079#1072#1094#1080#1080
@@ -157,7 +157,7 @@ object Form1: TForm1
       Top = 48
       Width = 106
       Height = 15
-      Caption = #1057#1090#1091#1076#1077#1085#1090': '#1044#1088#1086#1079#1076' '#1054'.'#1042'.'
+      Caption = #52#52#52#52#52#532#52': '#142#42#234#24#52' '#52'.'#52'.'
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
       Font.Height = -12
