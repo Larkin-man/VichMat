@@ -5,7 +5,7 @@
 #include<string.h>
 #include<iostream.h>
 
-int i,j;	 //—четчики цикла
+int i,j;	//—четчики цикла
 float *X=NULL;	//”злы интерпол€ции
 float *Y=NULL;	//«начение функции f(x)
 int n;	// оличество узлов (степень)
@@ -14,7 +14,7 @@ float L=0;	//»нтерпол€ционный многочлен
 float *P=NULL;	//Ћагранжевый коэффициент
 	
 void main()
-{	 
+{
 	clrscr();
 	char num[50]={NULL}; //¬веденное число
 	
